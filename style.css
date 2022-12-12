@@ -1,13 +1,25 @@
-s
+@font-face {
+    font-family: Lato-Bold;
+    src: url(Lato-Bold.ttf);
+}
+body{
+    font-family: Lato-Bold;
+}
 .navbar-custom{
     height: 60px;
 }
 .navbar-text-position{
     position: relative;
-    left: 83%;}
+    left: 70%;
+    font-size: 20px;
+}
 .cart-icon-settings{
     
 }
 .fontone{
 
+}
+.lower-nav{
+    position: relative;
+    top: 50%
 }
